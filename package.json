@@ -1,0 +1,18 @@
+{
+  "name": "sockets_colas_banco",
+  "version": "1.0.0",
+  "description": "Es un proyectos de sockets_Colas turnos",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "type": "module",
+  "author": "Adrian Camilo Vasquez Rincon",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "socket.io": "^4.1.2"
+  }
+}
